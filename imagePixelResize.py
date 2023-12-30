@@ -25,7 +25,7 @@ Copyright RFTI@UTM.
 --------------------------------
 
 IMPORTANT: Change the input_folder to the path to your image input folder.
-Example: Change: input_folder = r"PATH_TO_YOUR_INPUT_FOLDER" (line 75) to
+Example: Change: input_folder = r"PATH_TO_YOUR_INPUT_FOLDER" (line 73) to
                  input_folder = r"C:\Users\username\Documents\input_image"
 '''
 from PIL import Image
